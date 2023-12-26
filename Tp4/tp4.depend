@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1703600214 source:c:\users\matth\desktop\tp\tp4\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cctype>
+
