@@ -1,5 +1,9 @@
-Vous trouverez ici les réponses à tout mes tp d'initiation au développement du module R101 de l'Université Paris-Saclay.
+Vous trouverez ici les réponses à tout mes tp d'initiation au développement du module R 101 de l'Université Paris-Saclay.
 
-A Savoir:
 
-les Tp on était coder sous CodeBlocks puisque ceci était imposer malgrès cela vous ne devriez pas avoir de souvis de compilation sans meme utiliser CodeBlocks.
+
+À Savoir :
+
+
+
+Les Tp on était coder sous CodeBlocks puisque ceci était imposé malgré cela vous ne devriez pas avoir de soucis de compilation sans même utiliser CodeBlocks.
