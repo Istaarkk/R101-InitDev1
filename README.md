@@ -1,4 +1,4 @@
-Vous trouverez ici les réponses à tout mes tp de d'initiation au développement du module R101 de l'Université Paris-Saclay.
+Vous trouverez ici les réponses à tout mes tp d'initiation au développement du module R101 de l'Université Paris-Saclay.
 
 A Savoir:
 
