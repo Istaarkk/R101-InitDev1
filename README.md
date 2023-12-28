@@ -2,4 +2,4 @@ Vous trouverez ici les réponses à tout mes tp d'initiation au développement d
 
 A Savoir:
 
-les Tp on était coder sous CodeBlocks puisque ceci était impsoer malgrès cela vous ne devriez pas avoir de souvis de compilation sans meme utiliser CodeBlocks.
+les Tp on était coder sous CodeBlocks puisque ceci était imposer malgrès cela vous ne devriez pas avoir de souvis de compilation sans meme utiliser CodeBlocks.
